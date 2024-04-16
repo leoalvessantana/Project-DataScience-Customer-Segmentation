@@ -3,7 +3,7 @@
 
 ## Contexto do Problema
 
-A ideia desse projeto é segmentar os clientes de uma loja de e-commerce com base nas informações que temos deles, para que a gente possa enviar marketing específico para cada cliente, ou seja, e-mails com informações que esse cliente realmente está interessado. Para isso a gente iremos trabalhar com um modelo RFN de marketing, que se baseia em três variáveis: Recência, Frequência e a Monetaridade ou receita
+Este projeto visa segmentar os clientes de uma loja de e-commerce por meio da análise RFM (Recency, Frequency, Monetary) para proporcionar marketing personalizado, como e-mails com informações relevantes para cada cliente. Utilizando essa abordagem, buscamos customizar o marketing, considerando a última interação do cliente, a frequência de compras e o valor total gasto. Ao categorizar os clientes, como "VIPs" ou "em risco de churn", podemos desenvolver estratégias de marketing mais direcionadas e eficazes, com o objetivo de fortalecer o relacionamento com o cliente e otimizar o valor para o negócio.
 
 
 
