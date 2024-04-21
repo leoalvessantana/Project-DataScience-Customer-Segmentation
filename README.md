@@ -71,7 +71,7 @@ Nesse projeto utilizamos um dos métodos mais utilizados de cliusterização, o 
 
 <div align=center>
 
-![H1](Imagens/img.png 'sadas')
+![H1](Imagens/img1.png 'sadas')
 </div>
 
 
@@ -79,7 +79,7 @@ Nesse projeto utilizamos um dos métodos mais utilizados de cliusterização, o 
 
 <div align=center>
 
-![H1](Imagens/img.png 'sadas')
+![H1](Imagens/img2.png 'sadas')
 </div>
 
 
@@ -87,7 +87,7 @@ Nesse projeto utilizamos um dos métodos mais utilizados de cliusterização, o 
 
 <div align=center>
 
-![H1](Imagens/img.png 'sadas')
+![H1](Imagens/img3.png 'sadas')
 </div>
 
 
