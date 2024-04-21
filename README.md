@@ -47,7 +47,7 @@ Attribute | Definition
 
 ## Resultados e Insights
 
-Nesse projeto utilizamos um dos métodos mais utilizados de cliusterização, o K-means. Chegamos ao numero ideal de 4 Clusters para cada conjunto RFM. Com isso criamos uma nova variavel chamada Pontuação, que foi utilizada para segmentar os clientes, com isso criamos uma nova variavel chaada Segmentos, onde temos os clientes Master, Business, Inativo e Premium. A seguir podemos ver como ficou a distribuição dos nossos clientes dentro dessa segmentação
+Neste projeto, empregamos um dos métodos mais utilizados de clusterização, o K-means, para segmentar nossos clientes com base em seu comportamento RFM. Determinamos que o número ideal de clusters para cada conjunto RFM era 4, resultando na criação de uma nova variável denominada Pontuação. Essa pontuação foi fundamental para classificar os clientes em diferentes segmentos, nomeadamente Master, Business, Inativo e Premium. A seguir, apresentamos a distribuição dos clientes dentro desses segmentos.
 
 
 <div align=center>
@@ -67,7 +67,7 @@ Nesse projeto utilizamos um dos métodos mais utilizados de cliusterização, o 
 
 
 
-#### Frequência X Recência
+#### Frequência X Recência:
 
 <div align=center>
 
@@ -75,7 +75,7 @@ Nesse projeto utilizamos um dos métodos mais utilizados de cliusterização, o 
 </div>
 
 
-#### Receita X Frequência
+#### Receita X Frequência:
 
 <div align=center>
 
@@ -83,7 +83,7 @@ Nesse projeto utilizamos um dos métodos mais utilizados de cliusterização, o 
 </div>
 
 
-#### Receita X Recência
+#### Receita X Recência:
 
 <div align=center>
 
